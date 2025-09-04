@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Meu nome é **Enrico Vendramini Serpeloni**, tenho 16 *anos*. Gosto de jogar RPG, jogar jogos on-line e programar. Estou atualmente na escola técnica da Unicamp de Limeira (Cotil), fazendo o curso de Desenvolvimento de Sistemas.
+Meu nome é **Enrico Vendramini Serpeloni** **O vitor passou por aqui**, tenho 16 *anos*. Gosto de jogar RPG, jogar jogos on-line e fazer programas. Estou atualmente na escola técnica da Unicamp de Limeira (Cotil), fazendo o curso de Desenvolvimento de Sistemas.
 
 ### Habilidades
 
